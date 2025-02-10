@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 08\b)\b)\obj\Debug\b).csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 08\b)\b)\bin\Debug\b).exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 08\b)\b)\bin\Debug\b).exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 08\b)\b)\bin\Debug\b).pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 08\b)\b)\obj\Debug\b).exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 08\b)\b)\obj\Debug\b).pdb
